@@ -3,7 +3,7 @@ i = 0
 
 while i < array.length do
     array[i] = value_to_find
-      return array.index(value_to_find) 
+       array.index(value_to_find) 
     
     i += 1
   end
