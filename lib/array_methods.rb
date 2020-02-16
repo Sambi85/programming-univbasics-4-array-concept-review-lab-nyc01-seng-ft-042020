@@ -4,7 +4,8 @@ i = 0
 while i < array.length do
   
     if array [i]= value_to_find
-      puts  array.index(value_to_find) 
+      puts  array.index(value_to_find)
+      print array.index(value_to_find) 
     end
     i += 1
   end
